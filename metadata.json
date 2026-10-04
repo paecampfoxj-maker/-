@@ -1,0 +1,6 @@
+{
+  "name": "Lineage 2M Boss Timer (ระบบจับเวลาบอส L2M ภาษาไทย)",
+  "description": "เว็บแอปพลิเคชันระบบจับเวลาบอส Lineage 2M ภาษาไทยเต็มรูปแบบ รองรับ Real-time หลายคน เซิร์ฟเวอร์หลัก/รอง แจ้งเตือนเสียงพูดภาษาไทย และ Supabase",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
